@@ -1,13 +1,13 @@
 ---
-title: 'Template Chapter 1'
-description: 'This is a template chapter.'
+title: Descriptives
+description: "Descriptive statistics and related concepts\n"
 ---
 
 ## An exercise title written in sentence case
 
 ```yaml
 type: NormalExercise
-key: 560c218017
+key: 0d8f05904a
 lang: r
 xp: 100
 skills: 1
